@@ -33,7 +33,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Design Oriented Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria🇳🇬.
+I am a Design Oriented Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos, Nigeria🇳🇬.
 
 
 
