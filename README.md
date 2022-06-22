@@ -39,7 +39,7 @@ I am a Design Oriented Front-End Developer <img src="https://media.giphy.com/med
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I create tech related content on <a href="https//Instagram.com/stacktribe">StackTribe</a> and read tech articles.
+- :zap: In my free time, I create tech related content on <a href="https://Instagram.com/stacktribe">StackTribe</a> and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oluwasegun-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oluwasegunidowu)
 
