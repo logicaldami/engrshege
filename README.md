@@ -1,31 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-
-  <a href="http://twitter.com/engrshege">
-    <img src="https://img.shields.io/twitter/follow/engrshege?label=Twitter&logo=twitter&style=for-the-badge"/>
-  </a>
-
-  <a href="https://twitter.com/engrshege">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://instagram.com/engrshege">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/oluwasegunidowu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto: engrshege@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=engrshege&style=flat-square&color=blue" alt="Engrshege Profile Visit"/>
-</div>
-
 <div align="left">
 <h1>
   Hi, I'm Oluwasegun
@@ -49,7 +21,29 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 - :zap: In my free time, I create tech related content on <a href="https://Instagram.com/stacktribe">StackTribe</a> and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Oluwasegun-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oluwasegunidowu)
+---
+
+### :mailbox: Contact Me :
+
+<div id="badges" align="center">
+
+  <a href="http://twitter.com/engrshege">
+    <img src="https://img.shields.io/twitter/follow/engrshege?label=Twitter&logo=twitter&style=for-the-badge"/>
+  </a>
+
+  <a href="https://twitter.com/engrshege">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://instagram.com/engrshege">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/oluwasegunidowu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto: engrshege@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 ---
 
@@ -70,6 +64,10 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrshege&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshege&show_icons=true&locale=en&theme=vision-friendly-dark" alt="engrshege" width="410" /></p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=engrshege&style=flat-square&color=blue" alt="Engrshege Profile Visit"/>
+</div>
 
 ---
 
