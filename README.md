@@ -59,7 +59,7 @@ I am a Design Oriented Front-End Developer <img src="https://media.giphy.com/med
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrshege&show_icons=true&locale=en&layout=compact&theme=radical" alt="engrshege"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshege&show_icons=true&locale=en&theme=tokyonight" alt="engrshege" width="410" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrshege&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
