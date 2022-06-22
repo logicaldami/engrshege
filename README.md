@@ -18,7 +18,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I create tech related content on <a href="https://Instagram.com/stacktribe">StackTribe</a> and read tech articles.
+- 🚧 In my free time, I create tech related content on <a href="https://Instagram.com/stacktribe">StackTribe</a> and read tech articles.
 
 ---
 
