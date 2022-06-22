@@ -59,7 +59,7 @@ I am a Design Oriented Front-End Developer <img src="https://media.giphy.com/med
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engrshege&theme=dark&background=000000)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrshege&show_icons=true&locale=en&layout=compact&theme=radical" alt="engrshege"/></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrshege&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
