@@ -10,7 +10,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: `About Me`
 
 I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
@@ -22,7 +22,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 ---
 
-### :mailbox: Contact Me :
+### :mailbox: `Contact Me`
 
 <div id="badges" align="left">
 
@@ -43,7 +43,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: `Languages and Tools`
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 ---
 
-### :fire: My Stats :
+### :fire: `My Stats`
 
 <div align="left">
 
@@ -69,7 +69,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 ---
 
-### :writing_hand: Blog Posts :
+### `:writing_hand: Blog Posts`
 
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/itszed0/test-post-490g)
