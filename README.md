@@ -29,7 +29,7 @@
 <div align="left">
 <h1>
   Hi, I'm Oluwasegun
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px" height="31px"/>
 </h1>
 </div>
 
