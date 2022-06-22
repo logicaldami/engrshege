@@ -67,6 +67,8 @@ I am a Design Oriented Front-End Developer <img src="https://media.giphy.com/med
 
 ### :writing_hand: Blog Posts :
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### Hi there 👋
