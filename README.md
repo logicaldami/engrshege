@@ -24,7 +24,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 ### :mailbox: Contact Me :
 
-<div id="badges" align="center">
+<div id="badges" align="left">
 
   <a href="https://twitter.com/engrshege">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -61,7 +61,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshege&show_icons=true&locale=en&theme=vision-friendly-dark" alt="engrshege" width="410" /></p>
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=engrshege&style=flat-square&color=blue" alt="Engrshege Profile Visit"/>
 </div>
 
