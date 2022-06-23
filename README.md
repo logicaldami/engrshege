@@ -16,7 +16,7 @@
 
 I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 
-- :zap: I’m passionate about buliding and contributing to frontend web application projects to solve human problems.
+- :zap: I create values through technologically driven solutions to better the human race.
 
 - :seedling: In my free time, I create tech related content on <a href="https://Instagram.com/stacktribe">StackTribe</a> to help peopele learn web development easily.
 
