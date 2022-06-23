@@ -5,9 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  <img src="https://github.com/engrshege/engrshege/blob/main/images/engrshege.png" width="600" height="300"/>
- 
   ![Profile](https://github.com/engrshege/engrshege/blob/main/images/engrshege.png)
 </div>
 
