@@ -74,5 +74,7 @@ I am a Design Oriented Front-End Developer from Lagos, Nigeria🇳🇬.
 ### :writing_hand: `Blog Posts`
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [🚩 StackTribe Logo Presentation](https://dev.to/engrshege/stacktribe-logo-presentation-5hfe)
+- [StackTribe T-Shirt is Now Available!](https://dev.to/engrshege/stacktribe-t-shirt-is-now-available-5378)
+- [StackTribe is Now Online via all the Social Media Handles Below:](https://dev.to/engrshege/stacktribe-is-now-online-via-all-the-social-media-handles-below-oh8)
 <!-- BLOG-POST-LIST:END -->
