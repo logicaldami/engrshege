@@ -65,7 +65,7 @@ I am a detail-oriented Frontend Engineer from Lagos, Nigeria🇳🇬.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrshege&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshege&show_icons=true&locale=en&theme=vision-friendly-dark" alt="engrshege" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshege&show_icons=true&locale=en&theme=vision-friendly-dark" alt="engrshege" width="410"/></p>
 
 </div>
 
