@@ -28,6 +28,9 @@ I am a detail-oriented Frontend Engineer from Lagos, Nigeria🇳🇬.
 
 <div id="badges" align="left">
 
+  <a href="mailto: engrshege@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://twitter.com/engrshege">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -36,9 +39,6 @@ I am a detail-oriented Frontend Engineer from Lagos, Nigeria🇳🇬.
   </a>
   <a href="https://linkedin.com/in/oluwasegunidowu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto: engrshege@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 </div>
