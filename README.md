@@ -14,7 +14,7 @@
 
 ### :man_technologist: `About Me`
 
-I am a detail-oriented Frontend Engineer from Lagos, Nigeria🇳🇬.
+I am a value-oriented Frontend Engineer from Lagos, Nigeria🇳🇬.
 
 - :zap: I create values through technologically driven solutions to better the human race.
 
