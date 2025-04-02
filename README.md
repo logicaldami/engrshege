@@ -14,12 +14,10 @@
 
 ### :man_technologist: `About Me`
 
-I am a value-oriented Mobile App Developer (Flutter) with an ever-learning spirit. 
+I am a value-oriented Mobile App Developer (Flutter) with an ever-learning spirit. /br
 I love books and content that helps open my mind to opportunities and new tools for improving my skillsets. 
 
-I have skills relevant to bringing ideas into reality through thoughtful strategies from sketches, design, and development to create mobile applications (Android and iOS) that make both users and businesses happy. 
-
-- :zap: I create values through technologically driven solutions to better the human race.
+- :zap: I have skills relevant to bringing ideas into reality through thoughtful strategies from sketches, design, and development to create mobile applications (Android and iOS) that make both users and businesses happy. 
 
 - :seedling: In my free time, I create tech related content on <a href="https://Instagram.com/stacktribe">StackTribe</a> to help people learn web development easily.
 
