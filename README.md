@@ -28,13 +28,13 @@ I am a value-driven Frontend Engineer from Lagos, Nigeria🇳🇬.
 
 <div id="badges" align="left">
 
-  <a href="mailto: engrshege@gmail.com"> 
+  <a href="mailto: logicaldami@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://twitter.com/engrshege">
+  <a href="https://twitter.com/logicaldami">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://instagram.com/engrshege">
+  <a href="https://instagram.com/logicaldami">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://linkedin.com/in/oluwasegunidowu">
@@ -61,11 +61,11 @@ I am a value-driven Frontend Engineer from Lagos, Nigeria🇳🇬.
 
 <div align="left">
 
-<img src="https://komarev.com/ghpvc/?username=engrshege&style=flat-square&color=blue" alt="Engrshege Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=logicaldami&style=flat-square&color=blue" alt="logicaldami Profile Visit"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engrshege&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logicaldami&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=engrshege&show_icons=true&locale=en&theme=vision-friendly-dark" alt="engrshege" width="410"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=logicaldami&show_icons=true&locale=en&theme=vision-friendly-dark" alt="logicaldami" width="410"/></p>
 
 </div>
 
