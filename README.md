@@ -21,7 +21,7 @@ I love books and content that helps open my mind to opportunities and new tools 
 
 :seedling: In my free time, I create tech related content on <a href="https://Instagram.com/stacktribe">StackTribe</a> to help people learn web development easily.
 
-:telescope: I can perform very well as an indie hacker and likewise work hand-in-hand with a team of experienced developers, you can imagine all the knowledge packed together as one!
+💪🏽 I can perform very well as an indie hacker and likewise work hand-in-hand with a team of experienced developers, you can imagine all the knowledge packed together as one!
 
 ---
 
