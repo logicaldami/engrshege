@@ -19,7 +19,7 @@ I love books and content that helps open my mind to opportunities and new tools 
 
 :zap: I have skills relevant to bringing ideas into reality through thoughtful strategies from sketches, design, and development to create mobile applications (Android and iOS) that make both users and businesses happy. 
 
-:seedling: In my free time, I create tech related content on <a href="https://medium.com/@logicaldami> Medium </a> to help people learn about design and development easily.
+:seedling: In my free time, I create tech related content on <a href="https://medium.com/@logicaldami">Medium</a> to help people learn about design and development easily.
 
 💪🏽 I can perform very well as an indie hacker and likewise work hand-in-hand with a team of experienced developers, you can imagine all the knowledge packed together as one!
 
