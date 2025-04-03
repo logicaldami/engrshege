@@ -38,7 +38,7 @@ I love books and content that helps open my mind to opportunities and new tools 
   <a href="https://instagram.com/logicaldami">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://linkedin.com/in/oluwasegunidowu">
+  <a href="https://linkedin.com/in/logicaldami">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
