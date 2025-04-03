@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  ![Profile](https://github.com/engrshege/engrshege/blob/main/images/engrshege_frontend_engineer.gif)
+  ![Profile](https://github.com/engrshege/engrshege/blob/main/images/logicaldami_mobile_app_developer.gif)
 
 </div>
 
