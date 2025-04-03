@@ -32,7 +32,7 @@ I love books and content that helps open my mind to opportunities and new tools 
   <a href="mailto: logicaldami@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://twitter.com/logicaldami">
+  <a href="https://x.com/intent/follow?screen_name=logicaldami">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://instagram.com/logicaldami">
