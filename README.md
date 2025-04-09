@@ -16,9 +16,9 @@
 
 I am a value-oriented Software Developer with an ever-learning spirit. <br>
 
-📖 I love books and content that helps open my mind to opportunities and new tools for improving my skillsets. 
-
 :zap: I specialize in turning ideas into reality through strategic thinking—covering sketches, design, and development—to create mobile applications (Android and iOS) that engage users and support business growth. 
+
+📖 I love books and content that helps open my mind to opportunities and new tools for improving my skillsets. 
 
 :seedling: In my free time, I create tech related content on <a href="https://medium.com/@logicaldami">Medium</a> to help people learn about design and development easily.
 
