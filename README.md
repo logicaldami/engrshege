@@ -14,7 +14,7 @@
 
 ### :man_technologist: `About Me`
 
-I am a value-oriented Mobile Developer with an ever-learning spirit. <br>
+I am a value-oriented Mobile App Developer with an ever-learning spirit. <br>
 
 :zap: I specialize in turning ideas into reality through strategic thinking—covering sketches, design, and development—to create mobile applications (Android and iOS) that engage users and support business growth. 
 
