@@ -22,6 +22,7 @@ Click this 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 
 ##### `🛠️ Tools`
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=vscode)
 ![Git](https://img.shields.io/badge/-ChromeDevTools-black?style=flat-square&logo=googlechrome)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
