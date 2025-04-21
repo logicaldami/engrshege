@@ -23,7 +23,7 @@ Click this 👉 -- [logicaldami.netlify.app](https://logicaldami.netlify.app)
 
 ##### `🛠️ Tools`
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudio)
-![Chrome](https://img.shields.io/badge/-ChromeDevTools-black?style=flat-square&logo=googlechrome)
+![Chrome](https://img.shields.io/badge/-Chrome%20DevTools-black?style=flat-square&logo=googlechrome)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
