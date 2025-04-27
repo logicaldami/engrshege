@@ -1,5 +1,5 @@
 >### `Mobile App Developer`
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px" height="17px"/> Hi, I'm Oluwasegun! <br>
+👋 Hi, I'm Oluwasegun! <br>
 A value-driven Mobile App Developer with a passion for continuous learning. I specialize in turning ideas into reality through strategic thinking — covering sketches, design, and development — to create mobile applications (Android and iOS) that engage users and support business growth.
 
 &nbsp;
